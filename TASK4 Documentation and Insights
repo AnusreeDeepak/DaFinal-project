@@ -1,0 +1,6 @@
+                                                         Early Detection of Diabetes in People
+1.	Data Import & Integration
+o	Imported datasets: Diabetes, Hypertension, and Stroke.
+o	Selected the stroke dataset as it contains relevant attributes: age, hypertension, heart_disease, avg_glucose_level, bmi, smoking_status, work_type.
+o	Selected the Hypertension dataset as it contains relevant attributes:Age, Sex, trestcbs,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+o	Selected the Diabetes Data set , as it contains Age, sex, HighChol,BMI,HeartDiseasOrnot, Smoking status etc.
